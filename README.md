@@ -8,7 +8,10 @@ Welcome to my GitHub profile! Here I host *most* of my projects, you can see eve
 
 > https://chr0ma.me
 
+
+
 <img src="https://komarev.com/ghpvc/?username=trose2012&style=flat" alt="Chroma" />
+
 
 ![trose2012](https://github-readme-stats.vercel.app/api?username=trose2012&show_icons=true&theme=tokyonight&hide=["issues"])
 
