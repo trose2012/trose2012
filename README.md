@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 👋, I'm Chroma
 
-<!--
-**trose2012/trose2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "It's not a bug, it's a feature" - Andrew Tanenbaum
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here I host *most* of my projects, you can see everything over at my website!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> https://chr0ma.me
+
+## Get in touch fast
+
+- **Email**: `Chroma 'trosecoder@gmail.com`
+
+<img src="https://komarev.com/ghpvc/?username=trose2012&style=flat" alt="Chroma" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F7D9&width=435&lines=Touch+some+grass.;https%3A%2F%2Fchr0ma.me;%3AD;Code!!!!;iophdijpopjhioijpohji089678h+FRFR)](https://git.io/typing-svg)
+
