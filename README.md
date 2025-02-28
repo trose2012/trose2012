@@ -14,3 +14,11 @@ Welcome to my GitHub profile! Here I host *most* of my projects, you can see eve
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F7D9&width=435&lines=Touch+some+grass.;https%3A%2F%2Fchr0ma.me;%3AD;Code!!!!;iophdijpopjhioijpohji089678h+FRFR)](https://git.io/typing-svg)
 
+--- BEGIN RANDOM STATS NO ONE READS ---
+
+![trose2012](https://github-readme-stats.vercel.app/api?username=trose2012&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![trose2012](https://github-readme-stats.vercel.app/api/top-langs?username=trose2012&show_icons=true&theme=tokyonight&layout=compact)
+
+--- END RANDOM STATS NO ONE READS ---
+
