@@ -17,5 +17,7 @@ Welcome to my GitHub profile! Here I host *most* of my projects, you can see eve
 
 ![trose2012](https://github-readme-stats.vercel.app/api/top-langs?username=trose2012&show_icons=true&theme=tokyonight&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=trose2012&theme=highcontrast&border_radius=7.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=trose2012&theme=highcontrast&border_radius=7.3&date_format=M%20j%5B%2C%20Y%5D)]
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=trose2012)]
 
