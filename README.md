@@ -13,6 +13,8 @@ Welcome to my GitHub profile! Here I host *most* of my projects, you can see eve
 <img src="https://komarev.com/ghpvc/?username=trose2012&style=flat" alt="Chroma" />
 
 
+![trose2012](https://github-readme-stats.hackclub.dev/api/wakatime?username=1045&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 ![trose2012](https://github-readme-stats.vercel.app/api?username=trose2012&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![trose2012](https://github-readme-stats.vercel.app/api/top-langs?username=trose2012&show_icons=true&theme=tokyonight&layout=compact)
