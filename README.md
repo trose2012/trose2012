@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here I host *most* of my projects, you can see eve
 
 > https://chr0ma.me
 
-
+![My Discord](https://discord-readme-badge.vercel.app/api?id=963520338442997850)
 
 <img src="https://komarev.com/ghpvc/?username=trose2012&style=flat" alt="Chroma" />
 
