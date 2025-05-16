@@ -24,9 +24,8 @@ Welcome to my GitHub profile! Here I host *most* of my projects, you can see eve
 ![trophy](https://github-profile-trophy.vercel.app/?username=trose2012)
 
 
-
 ## Octo-Ring Links:
 <a href="https://octo-ring.com/p/trose2012/prev">◀️</a> • 
-<a href="https://octo-ring.com/p/trose2012/random">🔁</a> • 
+<a href="https://octo-ring.com/p/trose2012/random">🔀</a> • 
 <a href="https://octo-ring.com/p/trose2012/next">▶️</a>
 
