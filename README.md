@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Chroma
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F7D9&width=435&lines=Touch+some+grass.;https%3A%2F%2Fchr0ma.me;%3AD;Code!!!!;iophdijpopjhioijpohji089678h+FRFR)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&width=435&lines=Touch+some+grass.;This+uses+Quicksand+font.;https%3A%2F%2Fchr0ma.me;%3C3;I+am+a+Web+Developer.;Join+Hack+Club!;guips9e80hpohprtgupehpghidheghaeghip+FRFR;Follow+my+friend+3kh0!;hmmmmmmmmmmm;Heyo!)](https://git.io/typing-svg)
 
 ### "It's not a bug, it's a feature" - Andrew Tanenbaum
 
