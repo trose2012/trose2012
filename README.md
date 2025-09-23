@@ -8,4 +8,4 @@ Welcome to my GitHub profile! Here I host *most* of my projects, you can see eve
 
 > https://chr0ma.me
 
-![trose2012](https://github-readme-stats.vercel.app/api?username=trose2012&show_icons=true&theme=tokyonight&hide=["issues"])
+![](https://komarev.com/ghpvc/?username=trose2012&label=PROFILE+VIEWS)
