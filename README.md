@@ -6,6 +6,6 @@
 
 Welcome to my GitHub profile! Here I host *most* of my projects, you can see everything over at my website!
 
-> https://chr0ma.me
+> https://chr0ma.com
 
 ![](https://komarev.com/ghpvc/?username=trose2012&label=PROFILE+VIEWS)
