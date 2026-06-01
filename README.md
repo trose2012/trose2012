@@ -6,4 +6,5 @@ Welcome to my GitHub profile! Here I host *most* of my projects, you can see eve
 
 > https://chr0ma.com
 
+{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
 ![](https://komarev.com/ghpvc/?username=trose2012&label=PROFILE+VIEWS)
